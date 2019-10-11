@@ -60,14 +60,10 @@ Function to BanIp using iptables
 
 one liner to install RedGhost:
 ```
-wget https://raw.githubusercontent.com/d4rk007/RedGhost/master/redghost.sh; chmod +x redghost.sh; ./redghost.sh
+wget https://raw.githubusercontent.com/alex14324/Red_Ghost 
+chmod +x redghost.sh
+./redghost.sh
 ```
 
-One liner to install prerequisites and RedGhost:
-```
-wget https://raw.githubusercontent.com/d4rk007/RedGhost/master/redghost.sh; chmod +x redghost.sh; apt-get install dialog; apt-get install gcc; apt-get install iptables; apt-get install strace; ./redghost.sh
-```
 
-### Prerequisites
 
-dialog, gcc, iptables, strace
